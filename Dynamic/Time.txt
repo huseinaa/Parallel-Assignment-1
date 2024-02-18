@@ -1,11 +1,11 @@
-Execution time of trial [0]: 0.053292 seconds
-Execution time of trial [1]: 0.053829 seconds
-Execution time of trial [2]: 0.058324 seconds
-Execution time of trial [3]: 0.059819 seconds
-Execution time of trial [4]: 0.053749 seconds
-Execution time of trial [5]: 0.059235 seconds
-Execution time of trial [6]: 0.053840 seconds
-Execution time of trial [7]: 0.058057 seconds
-Execution time of trial [8]: 0.057056 seconds
-Execution time of trial [9]: 0.056837 seconds
-The average execution time of 10 trials is: 56.4200 ms
+Execution time of trial [0]: 0.002329 seconds
+Execution time of trial [1]: 0.002382 seconds
+Execution time of trial [2]: 0.002832 seconds
+Execution time of trial [3]: 0.002981 seconds
+Execution time of trial [4]: 0.002374 seconds
+Execution time of trial [5]: 0.002923 seconds
+Execution time of trial [6]: 0.002384 seconds
+Execution time of trial [7]: 0.002805 seconds
+Execution time of trial [8]: 0.002705 seconds
+Execution time of trial [9]: 0.002683 seconds
+The average execution time of 10 trials is: 26.402 ms
