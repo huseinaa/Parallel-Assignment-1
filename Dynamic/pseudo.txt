@@ -1,0 +1,17 @@
+MPI_Comm_rank(MPI_COMM_WORLD)
+MPI_Comm_size(MPI_COMM_WORLD)
+
+if rank == 0: 
+    Divide image into segments based on the number of available processes
+
+    for each slave process:
+        Assign a segment to the slave (start_row, end_row)
+    Compute segment for master process
+    Collect results from each worker
+    Assemble and save the final image
+
+else:
+    Receive segment assignment from the master
+    Compute the color of pixel for the assigned segment
+    Send computed segment back to the master
+
